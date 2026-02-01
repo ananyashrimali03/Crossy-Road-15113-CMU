@@ -1,5 +1,5 @@
 # Crossy-Road-15113-CMU
-I used Claude Sonnet 4.5. After monday's experiment, I felt LLMs are good with replicating existing work so I gave it a prompt to replicate the crossy road game using python as similar as it can. It gave me a working result instantly with some bugs, which I tried to resolve within the hour.
+I used Claude Sonnet 4.5. After monday's experiment, I felt LLMs are good with replicating existing work so I gave it a prompt to replicate the crossy road game using python as similar as it can. It gave me a working result instantly with some bugs, which I tried to resolve within the hour. It gave problems in the viewport movement so, I tried to solve that.
 
 Claude chat:
 
